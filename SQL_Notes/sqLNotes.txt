@@ -1,0 +1,12 @@
+Database- it store Data
+Schema-  it is blueprint of database architecture
+
+
+Database Schema vs. Database Table: Key Differences
+A database table is a single storage structure used to store data in a tabular format of rows and columns. It represents a specific entity—such as customers, orders or products—and stores the existing data.
+
+A database schema is the structure of the entire database. The database schema defines the organization of the database tables, how they are related and how other database objects are used and accessed.
+TYpes of Schemas-
+Conceptual Schema: The highest-level view that maps out business requirements (e.g., "We need to track Customers, Products, and Sales").
+Logical Schema: The detailed programmer's blueprint that maps out exact table names, column names, data types, and relationships.
+Physical Schema: The low-level technical plan showing how the data is actually written onto computer hard drives and storage systems
