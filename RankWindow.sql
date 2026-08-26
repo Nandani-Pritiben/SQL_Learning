@@ -1,0 +1,2 @@
+--Rank- is always require order by
+-- Rank function have 0 arg
