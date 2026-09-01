@@ -1,12 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\NIRALI\\source\\repos\\Nandani-Pritiben\\SQL_Learning\\",
+  "WorkspaceRootPath": "C:\\Users\\NIRALI\\SQL_Learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NIRALI\\SQL_Learning\\JOIN.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NIRALI\\SQL_Learning\\CREATETABLE.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CREATETABLE.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NIRALI\\SQL_Learning\\CREATETABLE.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NIRALI\\SQL_Learning\\JOIN.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JOIN.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,27 +26,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JOIN.sql - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (53))",
+              "DocumentIndex": 1,
+              "Title": "JOIN.sql - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (51))",
               "DocumentMoniker": "C:\\Users\\NIRALI\\SQL_Learning\\JOIN.sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\SQL_Learning\\JOIN.sql",
-              "ToolTip": "C:\\Users\\NIRALI\\SQL_Learning\\JOIN.sql - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (53))",
-              "RelativeToolTip": "..\\..\\..\\..\\SQL_Learning\\JOIN.sql - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (53))",
+              "RelativeDocumentMoniker": "JOIN.sql",
+              "ToolTip": "C:\\Users\\NIRALI\\SQL_Learning\\JOIN.sql - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (51))",
+              "RelativeToolTip": "JOIN.sql - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (51))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2026-08-23T06:26:41.356Z",
-              "EditorCaption": " - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (53))"
+              "EditorCaption": " - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (51))"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CREATETABLE.sql",
+              "DocumentIndex": 0,
+              "Title": "CREATETABLE.sql - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (54))",
               "DocumentMoniker": "C:\\Users\\NIRALI\\SQL_Learning\\CREATETABLE.sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\SQL_Learning\\CREATETABLE.sql",
-              "ToolTip": "C:\\Users\\NIRALI\\SQL_Learning\\CREATETABLE.sql",
-              "RelativeToolTip": "..\\..\\..\\..\\SQL_Learning\\CREATETABLE.sql",
+              "RelativeDocumentMoniker": "CREATETABLE.sql",
+              "ToolTip": "C:\\Users\\NIRALI\\SQL_Learning\\CREATETABLE.sql - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (54))",
+              "RelativeToolTip": "CREATETABLE.sql - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (54))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2026-08-22T12:22:03.921Z",
-              "EditorCaption": ""
+              "EditorCaption": " - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (54))"
             }
           ]
         }

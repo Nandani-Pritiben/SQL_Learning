@@ -25,26 +25,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JOIN.sql - not connected",
+              "Title": "JOIN.sql - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (53))",
               "DocumentMoniker": "C:\\Users\\NIRALI\\SQL_Learning\\JOIN.sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SQL_Learning\\JOIN.sql",
-              "ToolTip": "C:\\Users\\NIRALI\\SQL_Learning\\JOIN.sql - not connected*",
-              "RelativeToolTip": "..\\..\\..\\..\\SQL_Learning\\JOIN.sql - not connected*",
+              "ToolTip": "C:\\Users\\NIRALI\\SQL_Learning\\JOIN.sql - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (53))",
+              "RelativeToolTip": "..\\..\\..\\..\\SQL_Learning\\JOIN.sql - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (53))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2026-08-23T06:26:41.356Z",
-              "EditorCaption": " - not connected"
+              "EditorCaption": " - localhost\\SQLEXPRESS.master (LAPTOP-MTS7T10M\\NIRALI (53))"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CREATETABLE.sql - not connected",
+              "Title": "CREATETABLE.sql",
               "DocumentMoniker": "C:\\Users\\NIRALI\\SQL_Learning\\CREATETABLE.sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SQL_Learning\\CREATETABLE.sql",
-              "ToolTip": "C:\\Users\\NIRALI\\SQL_Learning\\CREATETABLE.sql - not connected",
-              "RelativeToolTip": "..\\..\\..\\..\\SQL_Learning\\CREATETABLE.sql - not connected",
+              "ToolTip": "C:\\Users\\NIRALI\\SQL_Learning\\CREATETABLE.sql",
+              "RelativeToolTip": "..\\..\\..\\..\\SQL_Learning\\CREATETABLE.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2026-08-22T12:22:03.921Z",
-              "EditorCaption": " - not connected"
+              "EditorCaption": ""
             }
           ]
         }

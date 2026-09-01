@@ -64,6 +64,6 @@ Sales,
 SUM(Sales) OVER(PARTITION BY OrderStatus Order By OrderDate
 
 --ROWS BETWEEN 2 PRECEDING AND CURRENT ROW) AS TotalSales
--- Shortcut 
+-- Shortcut for preceding only you can use unbounded preceding also
 ROWS 2 PRECEDING ) AS TotalSales
 From Sales.Orders
